@@ -3,7 +3,7 @@
     background-color: transparent;
 }
 
-.header-name {
+.header-name, a, a:hover, a:focus {
     color: #df1f1f;
 }
 
