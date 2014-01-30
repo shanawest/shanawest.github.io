@@ -19,6 +19,7 @@
 
 .background-image {
     height: 16em;
+    width: 100%;
     margin-bottom: 0px;
     background-image: url(https://farm8.staticflickr.com/7215/6904795572_53e06257ae_h_d.jpg);
     background-position: 0% 25%;
